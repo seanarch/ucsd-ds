@@ -1,0 +1,1 @@
+std::cout << gcd_naive(a, b) << std::endl;
